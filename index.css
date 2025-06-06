@@ -164,7 +164,7 @@ body {
   width: 250px;
   height: 250px;
   transform: translate(-50%, -50%);
-  background-image: url('user-group-solid.svg'); /* ton image ici */
+  background-image: none;
   background-repeat: no-repeat;
   background-size: contain;
   opacity: 0.03;
